@@ -15,6 +15,13 @@
       "when": 1752192084215,
       "tag": "0001_strange_mesmero",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752429425844,
+      "tag": "0002_stiff_stranger",
+      "breakpoints": true
     }
   ]
 }
