@@ -71,7 +71,7 @@ export async function generateAnswer(
     - Seja objetivo;
     - Mantenha um tom educativo e profissional;
     - Cite trechos relevantes do contexto se apropriado;
-    - Se o contexto for citado, utilize o termo "conteúdo da aula"
+    - Se o contexto for citado, utilize o termo "De acordo com o que a Natália falou"
 `.trim();
 
   const response = await gemini.models.generateContent({
