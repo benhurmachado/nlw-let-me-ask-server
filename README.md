@@ -1,8 +1,8 @@
 ## Projeto
 
 - O projeto permite a criação de salas e perguntas dentro dessas salas. A partir disso, o projeto também 
-permite a gravação de áudios, abordando sobre determinados temas, que serão transcritos e usados como 
-base de respostas para as perguntas criadas.
+permite a gravação de áudios, abordando sobre determinados temas, que com a assitência da Inteligência Artificial Gemini
+serão transcritos e utilizados como base de respostas para as perguntas criadas.
 
 ## Tecnologias
 
